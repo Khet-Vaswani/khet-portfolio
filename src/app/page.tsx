@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Terminal, Database, Code, Cpu } from "lucide-react";
 import Link from "next/link";
+import Image from "next/image";
 import { Button } from "@/components/ui/Button";
 import { Section } from "@/components/layout/Section";
 import { Card } from "@/components/ui/Card";
@@ -63,7 +64,7 @@ export default function Home() {
                   View Projects <ArrowRight size={18} />
                 </Button>
               </Link>
-              <a href="/resume.pdf" download>
+              <a href={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/resume.pdf`} download>
                 <Button variant="outline" size="lg" className="gap-2">
                   <Download size={18} /> Download Resume
                 </Button>
@@ -74,15 +75,11 @@ export default function Home() {
           <motion.div variants={itemVariants} className="relative mx-auto lg:ml-auto w-full max-w-md aspect-square">
             <div className="w-full h-full rounded-full border-2 border-white/10 overflow-hidden relative glass flex items-center justify-center group bg-card">
               <div className="absolute inset-0 bg-gradient-to-tr from-accent/20 to-secondary/20 group-hover:opacity-100 transition-opacity opacity-50 z-20 pointer-events-none"></div>
-              <img 
+              <Image 
                 src="/profile.jpg" 
                 alt="Khet Maheshwari" 
-                className="w-full h-full object-cover relative z-10"
-                onError={(e) => {
-                  // Fallback if image is missing
-                  e.currentTarget.style.display = 'none';
-                  e.currentTarget.parentElement!.innerHTML += '<div class="text-center p-8 relative z-10"><p class="text-gray-400 text-sm">Add profile.jpg<br/>to public folder</p></div>';
-                }}
+                fill
+                className="object-cover relative z-10"
               />
             </div>
             {/* Floating badges */}
