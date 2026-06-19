@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Generative AI Application Developer",
+    "issuer": "Pakistan Engineering Council",
+    "date": "2024"
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Development",
+    "issuer": "NFTP",
+    "date": "2023"
+  },
+  {
+    "id": "3",
+    "title": "Prompt Engineering for ChatGPT",
+    "issuer": "Coursera",
+    "date": "2023"
+  },
+  {
+    "id": "4",
+    "title": "HTML, CSS & JavaScript",
+    "issuer": "Coursera",
+    "date": "2022"
+  },
+  {
+    "id": "5",
+    "title": "Python",
+    "issuer": "Coursera",
+    "date": "2022"
+  },
+  {
+    "id": "6",
+    "title": "UI/UX Design",
+    "issuer": "SMAZ Technologies",
+    "date": "2022"
+  },
+  {
+    "id": "7",
+    "title": "Java Developer",
+    "issuer": "PITB",
+    "date": "2022"
+  }
+]

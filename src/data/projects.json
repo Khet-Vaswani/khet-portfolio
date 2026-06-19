@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "title": "AI-Powered Learning Platform",
+    "category": "AI",
+    "technologies": ["Python", "Flask", "React.js", "LangChain", "RAG", "Groq API", "MySQL"],
+    "features": [
+      "Personalized AI learning system",
+      "AI-generated quizzes and notes",
+      "RAG-based question answering",
+      "Multi-role dashboard"
+    ],
+    "description": "A final year project that uses AI to personalize the learning experience, featuring automated content generation and a RAG-based query system.",
+    "featured": true,
+    "image": "/projects/ai-learning.jpg"
+  },
+  {
+    "id": "2",
+    "title": "RAG Chatbot",
+    "category": "Machine Learning",
+    "technologies": ["Python", "Flask", "LangChain", "Gemini API", "Vector Database"],
+    "features": [
+      "Document-based intelligent assistant",
+      "Context-aware responses",
+      "Knowledge retrieval system"
+    ],
+    "description": "An intelligent document assistant capable of retrieving specific information and context-aware responses using Retrieval-Augmented Generation.",
+    "featured": true,
+    "image": "/projects/rag-chatbot.jpg"
+  },
+  {
+    "id": "3",
+    "title": "AI Voice Agent",
+    "category": "AI",
+    "technologies": ["Python", "Whisper", "NLP", "Flask"],
+    "features": [
+      "Speech-to-text",
+      "Text-to-speech",
+      "Multi-turn conversations"
+    ],
+    "description": "A conversational voice agent leveraging Whisper and NLP for natural, multi-turn voice interactions.",
+    "featured": true,
+    "image": "/projects/voice-agent.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Real-Time Object Detection",
+    "category": "Computer Vision",
+    "technologies": ["YOLOv8", "OpenCV", "Python", "Flask"],
+    "features": [
+      "Live object detection",
+      "Computer vision pipeline",
+      "Optimized real-time processing"
+    ],
+    "description": "A highly optimized computer vision pipeline utilizing YOLOv8 for accurate and live object tracking.",
+    "featured": true,
+    "image": "/projects/object-detection.jpg"
+  },
+  {
+    "id": "5",
+    "title": "ElectroMart eCommerce Platform",
+    "category": "Full Stack",
+    "technologies": ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "Bootstrap"],
+    "features": [
+      "Product management",
+      "Shopping cart",
+      "Authentication",
+      "Admin dashboard"
+    ],
+    "description": "A complete eCommerce solution featuring user authentication, shopping carts, and a comprehensive admin management dashboard.",
+    "featured": true,
+    "image": "/projects/electromart.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Real-Time Chat Application",
+    "category": "Web Development",
+    "technologies": ["React", "Node.js", "Socket.io", "MongoDB"],
+    "features": ["Real-time messaging", "User authentication", "Online status"],
+    "description": "A web socket based application enabling real-time communications.",
+    "featured": false,
+    "image": "/projects/chat.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Shopping Cart System",
+    "category": "Full Stack",
+    "technologies": ["MERN Stack"],
+    "features": ["Cart management", "Checkout integration"],
+    "description": "A robust shopping cart implementation using the MERN stack.",
+    "featured": false,
+    "image": "/projects/cart.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Blog Management System",
+    "category": "Web Development",
+    "technologies": ["Next.js", "Tailwind CSS", "PostgreSQL"],
+    "features": ["Markdown support", "CMS integration"],
+    "description": "A modern blog management system.",
+    "featured": false,
+    "image": "/projects/blog.jpg"
+  },
+  {
+    "id": "9",
+    "title": "House Price Prediction ML Model",
+    "category": "Machine Learning",
+    "technologies": ["Python", "Scikit-Learn", "Pandas"],
+    "features": ["Data preprocessing", "Regression models"],
+    "description": "A machine learning model to predict real estate prices based on various parameters.",
+    "featured": false,
+    "image": "/projects/house-price.jpg"
+  }
+]

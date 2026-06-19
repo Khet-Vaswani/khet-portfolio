@@ -1,0 +1,55 @@
+[
+  {
+    "category": "AI & Machine Learning",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LangChain",
+      "RAG",
+      "Prompt Engineering",
+      "LLM Integration",
+      "Gemini API",
+      "Groq API",
+      "TensorFlow",
+      "Scikit-Learn"
+    ]
+  },
+  {
+    "category": "Frontend Development",
+    "skills": [
+      "React.js",
+      "Angular",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Next.js"
+    ]
+  },
+  {
+    "category": "Backend & Databases",
+    "skills": [
+      "Flask",
+      "Node.js",
+      "PHP",
+      "REST APIs",
+      "JWT Authentication",
+      "MySQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "skills": [
+      "Git & GitHub",
+      "Docker",
+      "Linux CLI",
+      "Postman",
+      "VS Code",
+      "Figma",
+      "Jupyter Notebook"
+    ]
+  }
+]

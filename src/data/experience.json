@@ -1,0 +1,63 @@
+[
+  {
+    "id": "1",
+    "role": "Angular Developer Intern",
+    "company": "Tech Solutions",
+    "location": "Remote",
+    "date": "2024 - Present",
+    "responsibilities": [
+      "Building enterprise Angular applications",
+      "Creating reusable components",
+      "REST API integration",
+      "Agile development workflow"
+    ]
+  },
+  {
+    "id": "2",
+    "role": "Product Development Intern",
+    "company": "Innovate LLC",
+    "location": "USA (Remote)",
+    "date": "2023 - 2024",
+    "responsibilities": [
+      "Worked with international engineering teams",
+      "Built AI automation concepts",
+      "Improved product workflows"
+    ]
+  },
+  {
+    "id": "3",
+    "role": "Full Stack Developer Intern",
+    "company": "Webify Agency",
+    "location": "Karachi, Pakistan",
+    "date": "2023",
+    "responsibilities": [
+      "Developed APIs",
+      "Fixed frontend/backend bugs",
+      "Optimized database performance"
+    ]
+  },
+  {
+    "id": "4",
+    "role": "UI/UX Instructor",
+    "company": "SMAZ Technologies",
+    "location": "Hybrid",
+    "date": "2022 - 2023",
+    "responsibilities": [
+      "Trained 30+ students in design principles",
+      "Designed Figma-based learning material",
+      "Conducted weekly hands-on workshops"
+    ]
+  },
+  {
+    "id": "5",
+    "role": "Freelance Developer",
+    "company": "Self-Employed",
+    "location": "Global",
+    "date": "2022 - Present",
+    "responsibilities": [
+      "Delivered AI and web solutions to international clients",
+      "Managed end-to-end project lifecycle",
+      "Provided technical consulting"
+    ]
+  }
+]
