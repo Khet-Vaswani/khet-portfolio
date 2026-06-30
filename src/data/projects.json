@@ -1,16 +1,31 @@
 [
   {
+    "id": "10",
+    "title": "AI-Powered Flood Prediction & Emergency Response System",
+    "category": "Full Stack",
+    "technologies": ["Next.js", "FastAPI", "Tailwind CSS", "Leaflet.js", "Scikit-Learn", "Google Gemini API"],
+    "features": [
+      "Context-grounded emergency chatbot",
+      "Interactive GIS evacuation mapping",
+      "Real-time data analytics dashboard",
+      "Online ML retraining pipeline"
+    ],
+    "description": "An advanced full-stack disaster management platform integrating FastAPI predictive models with a Next.js GIS evacuation dashboard, real-time Recharts, and Google Gemini API grounded in live database context.",
+    "featured": true,
+    "image": "/projects/flood-prediction.jpg"
+  },
+  {
     "id": "1",
     "title": "AI-Powered Learning Platform",
     "category": "AI",
     "technologies": ["Python", "Flask", "React.js", "LangChain", "RAG", "Groq API", "MySQL"],
     "features": [
-      "Personalized AI learning system",
-      "AI-generated quizzes and notes",
-      "RAG-based question answering",
+      "AI learning system",
+      "AI generated quizzes and notes",
+      "RAG based question answering",
       "Multi-role dashboard"
     ],
-    "description": "A final year project that uses AI to personalize the learning experience, featuring automated content generation and a RAG-based query system.",
+    "description": "A final year project that uses AI to provide personalized learning experience, featuring automated content generation and a RAG-based query system.",
     "featured": true,
     "image": "/projects/ai-learning.jpg"
   },
@@ -87,7 +102,7 @@
     "category": "Full Stack",
     "technologies": ["MERN Stack"],
     "features": ["Cart management", "Checkout integration"],
-    "description": "A robust shopping cart implementation using the MERN stack.",
+    "description": "A shopping cart implementation using the MERN stack.",
     "featured": false,
     "image": "/projects/cart.jpg"
   },

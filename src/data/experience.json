@@ -6,58 +6,58 @@
     "location": "Remote",
     "date": "2024 - Present",
     "responsibilities": [
-      "Building enterprise Angular applications",
-      "Creating reusable components",
-      "REST API integration",
-      "Agile development workflow"
+      "Developing high-quality Angular applications for enterprise clients using Angular 22.",
+      "Building reusable UI components with NgRx for state management and Tailwind CSS for styling.",
+      "Integrating RESTful APIs and GraphQL endpoints, ensuring seamless data flow.",
+      "Collaborating within an Agile/Scrum framework, participating in daily stand-ups, sprint planning, and retrospectives."
     ]
   },
   {
     "id": "2",
     "role": "Product Development Intern",
     "company": "Innovate LLC",
-    "location": "USA (Remote)",
+    "location": "Remote",
     "date": "2023 - 2024",
     "responsibilities": [
-      "Worked with international engineering teams",
-      "Built AI automation concepts",
-      "Improved product workflows"
+      "Collaborated with cross-functional international teams to conceptualize and develop innovative product features.",
+      "Implemented AI-driven automation solutions that streamlined workflows and enhanced product efficiency.",
+      "Contributed to product design and development, ensuring alignment with business goals and user needs."
     ]
   },
   {
     "id": "3",
     "role": "Full Stack Developer Intern",
     "company": "Webify Agency",
-    "location": "Karachi, Pakistan",
+    "location": "Remote",
     "date": "2023",
     "responsibilities": [
-      "Developed APIs",
-      "Fixed frontend/backend bugs",
-      "Optimized database performance"
+      "Developed secure RESTful APIs using Node.js and Express, incorporating JWT authentication and proper error handling.",
+      "Debugged and resolved complex frontend and backend issues, improving application stability and user experience.",
+      "Optimized database queries and schema designs, resulting in a 30% improvement in application performance."
     ]
   },
   {
     "id": "4",
     "role": "UI/UX Instructor",
     "company": "SMAZ Technologies",
-    "location": "Hybrid",
+    "location": "Remote",
     "date": "2022 - 2023",
     "responsibilities": [
-      "Trained 30+ students in design principles",
-      "Designed Figma-based learning material",
-      "Conducted weekly hands-on workshops"
+      "Mentored and trained over 30 students in UI/UX design principles, teaching them from fundamentals to advanced techniques.",
+      "Developed comprehensive, Figma-based learning materials including tutorials, project templates, and design systems.",
+      "Led weekly hands-on workshops, facilitating practical design exercises and providing personalized feedback to students."
     ]
   },
   {
     "id": "5",
     "role": "Freelance Developer",
     "company": "Self-Employed",
-    "location": "Global",
+    "location": "Remote",
     "date": "2022 - Present",
     "responsibilities": [
-      "Delivered AI and web solutions to international clients",
-      "Managed end-to-end project lifecycle",
-      "Provided technical consulting"
+      "Delivered end-to-end AI and web solutions to international clients, managing projects from conceptualization to deployment.",
+      "Managed the complete project lifecycle for diverse clients, including requirement gathering, development, testing, and deployment.",
+      "Provided expert technical consulting to clients, offering strategic guidance on AI integration, system architecture, and best practices."
     ]
   }
 ]
